@@ -24,7 +24,7 @@ How to avoid DB load because of a lot of read operations?
 
 API specs:
 
-* Path: /target/{targetId}/notifications
+* Path: /notifications/target/{targetId}
 * Method: GET
 * Request Parameters
   * status (UNREAD, ALL)
